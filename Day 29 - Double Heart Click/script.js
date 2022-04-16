@@ -41,3 +41,4 @@ const createHeart = e => {
 
     setTimeout(() => {heart.remove()}, 2000)
 }
+//finished
