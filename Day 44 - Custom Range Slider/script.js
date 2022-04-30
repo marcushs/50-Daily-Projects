@@ -24,7 +24,7 @@ range.addEventListener('input', (e) => {
     label.style.left = `${left}px`
 
 
-    //below is my own attemp before knowing the solution
+    //below is my own attemp before knowing the   solution
     // label.style.left = `${value * 3}px`
     // label.style.transform = 'translateX(-50%)'
 })
